@@ -1,6 +1,8 @@
 *.rasa_v_env
 .vscode
-
+training-data-analyst
+*rasa_v_env
+*nlpvenv
 
 # OS junk files
 [Tt]humbs.db
