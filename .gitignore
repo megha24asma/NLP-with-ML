@@ -3,6 +3,7 @@
 training-data-analyst
 *rasa_v_env
 *nlpvenv
+*distilbert-finetuned-ner
 
 # OS junk files
 [Tt]humbs.db
